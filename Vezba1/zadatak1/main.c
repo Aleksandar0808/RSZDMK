@@ -1,9 +1,9 @@
 #include <studio.h>
 int main()
 {
-	int a = 2;
-	int b = 3;
+	int a = 5;
+	int b = 10;
 
-	printf("Zbir je:", a+b);
+	printf("Zbir je %d", a+b);
 	return 0;
 }
